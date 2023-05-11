@@ -1,0 +1,17 @@
+F:\MyProjects\School\Infrastucture\bin\Debug\net7.0\Infrastucture.deps.json
+F:\MyProjects\School\Infrastucture\bin\Debug\net7.0\Infrastucture.dll
+F:\MyProjects\School\Infrastucture\bin\Debug\net7.0\Infrastucture.pdb
+F:\MyProjects\School\Infrastucture\bin\Debug\net7.0\Application.dll
+F:\MyProjects\School\Infrastucture\bin\Debug\net7.0\Domain.dll
+F:\MyProjects\School\Infrastucture\bin\Debug\net7.0\Application.pdb
+F:\MyProjects\School\Infrastucture\bin\Debug\net7.0\Domain.pdb
+F:\MyProjects\School\Infrastucture\obj\Debug\net7.0\Infrastucture.csproj.AssemblyReference.cache
+F:\MyProjects\School\Infrastucture\obj\Debug\net7.0\Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+F:\MyProjects\School\Infrastucture\obj\Debug\net7.0\Infrastucture.AssemblyInfoInputs.cache
+F:\MyProjects\School\Infrastucture\obj\Debug\net7.0\Infrastucture.AssemblyInfo.cs
+F:\MyProjects\School\Infrastucture\obj\Debug\net7.0\Infrastucture.csproj.CoreCompileInputs.cache
+F:\MyProjects\School\Infrastucture\obj\Debug\net7.0\Infrastucture.csproj.CopyComplete
+F:\MyProjects\School\Infrastucture\obj\Debug\net7.0\Infrastucture.dll
+F:\MyProjects\School\Infrastucture\obj\Debug\net7.0\refint\Infrastucture.dll
+F:\MyProjects\School\Infrastucture\obj\Debug\net7.0\Infrastucture.pdb
+F:\MyProjects\School\Infrastucture\obj\Debug\net7.0\ref\Infrastucture.dll
